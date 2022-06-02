@@ -1,5 +1,4 @@
 public class Użytkownik {
-    int id;
     String login = new String();
     String imie = new String();
     String nazwisko = new String();
